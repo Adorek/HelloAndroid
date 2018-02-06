@@ -24,7 +24,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="199dp"
         android:inputType="textPersonName"
-        android:text="Udacity"
+        android:text="@string/udacity_name"
         android:textColor="@android:color/black"
         android:textSize="34sp"
         android:textStyle="bold" />
@@ -50,7 +50,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
         android:autoLink="map"
-        android:text="2465 Latham St, Mountain View, CA 94043"
+        android:text="@string/adress"
         android:textColor="@android:color/black"
         android:textSize="16sp" />
 
