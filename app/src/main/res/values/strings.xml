@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="phone_number">650-555-5555</string>
+    <color name="light_gray">#cec7c7</color>
+</resources>
